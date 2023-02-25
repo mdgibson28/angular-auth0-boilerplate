@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../nestjs-neo4j-boilerplate"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
